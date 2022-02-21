@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "the-news-app",
+    "slug": "the-news-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/appAsset/iOSIcon.png",
+    "splash": {
+      "image": "./assets/appAsset/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E3E3E3"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/appAsset/ic_launcher.png",
+        "backgroundColor": "#E3E3E3"
+      }
+    },
+    "web": {
+      "favicon": "./assets/appAsset/ic_launcher.png"
+    },
+    "description": ""
+  }
+}

@@ -1,0 +1,15 @@
+yarn add @react-navigation/native
+expo install react-native-screens react-native-safe-area-context
+yarn add @react-navigation/native-stack
+
+yarn add react-native-paper
+
+expo install redux react-redux redux-thunk 
+
+expo install react-native-dotenv
+
+yarn add react-native-device-country
+
+expo install react-native-render-html
+
+expo install expo-linking
